@@ -1,6 +1,6 @@
 ## Katsiaryna Kisialeuskaya
 
-#### Contact information
+### Contact information
 
 **Location:** Krakow, Poland  
 **E-mail:** kkisialeuskaya@gmail.com  
@@ -30,7 +30,7 @@ function multiply(a, b){
 
 - Creative writing, University of Silesia (2019-now)
 
-#### Courses:
+#### Courses
 
 - HTML Academy  
 - RSS Course «JavaScript/Front-end» (in progress)
