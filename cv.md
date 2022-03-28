@@ -8,15 +8,18 @@
 **Discord:** kisialeuskaya#3592
 
 ### About me  
-  
+
+I'm content writer.
   
 ### Skills
+
 - HTML5
 - CSS3
 - Git
 - GitHub
 
 ### Code example
+
 ```javascript
 function multiply(a, b){
  return a * b;
@@ -24,12 +27,16 @@ function multiply(a, b){
 ```
 
 ### Education
+
 - Creative writing, University of Silesia (2019-now)
+
 #### Courses:
+
 - HTML Academy  
 - RSS Course «JavaScript/Front-end» (in progress)
 
 ### Languages
+
 - Russian - C2  
 - Polish - C2  
 - Belarusian - B2  
